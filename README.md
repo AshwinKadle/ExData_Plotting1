@@ -11,7 +11,7 @@
 <li>plot3.R</li>
 <li>plot4.R</li>
 </ul>
-* <b>To reproduce the plots follow the commands as below in RStudio </b>
+* <b>To reproduce the plots follow the commands as below in RStudio (remember to setwd() to the folder where the data is extracted and r files are downloaded</b>
 
 * <em> Plot1 </em>
 
@@ -19,8 +19,27 @@
 <li>source("plot1.r")</li>
 <li>plot1()</li>
 </ol>
- 
 
+* <em> Plot2 </em>
+
+<ol> 
+<li>source("plot2.r")</li>
+<li>plot2()</li>
+</ol>
+
+* <em> Plot3 </em>
+
+<ol> 
+<li>source("plot3.r")</li>
+<li>plot3()</li>
+</ol>
+
+* <em> Plot4 </em>
+
+<ol> 
+<li>source("plot4.r")</li>
+<li>plot4()</li>
+</ol>
 
 ## Introduction to the Assignment
 
