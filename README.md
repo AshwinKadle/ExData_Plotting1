@@ -13,7 +13,13 @@
 </ul>
 * <b>To reproduce the plots follow the commands as below in RStudio </b>
 
+* <em> Plot1 </em>
 
+<ol> 
+<li>source("plot1.r")</li>
+<li>plot1()</li>
+</ol>
+ 
 
 
 ## Introduction to the Assignment
