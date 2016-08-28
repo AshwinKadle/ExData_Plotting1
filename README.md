@@ -2,8 +2,22 @@
 
 
 * <b>Download Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
+* <b>Extract Dataset in a folder<b>
+* <b>Copy the 5 R files in the same folder as the extracted data<b>
 
-## Introduction
+<ul>
+<li>load_hhpower.R</li>
+<li>plot1.R</li>
+<li>plot2.R</li>
+<li>plot3.R</li>
+<li>plot4.R</li>
+</ul>
+
+* <b>To reproduce the plots follow the commands as below in RStudio <b>
+
+
+
+## Introduction to the Assignment
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
