@@ -41,6 +41,9 @@
 <li>plot4()</li>
 </ol>
 
+* <em> The file load_hhpower.R is sourced from within each R file used for creating the plot. load_hhpower.R is used to load data and further subset for 2 days as per the assignment</em>
+
+
 ## Introduction to the Assignment
 
 This assignment uses data from
